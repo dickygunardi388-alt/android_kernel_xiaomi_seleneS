@@ -323,3 +323,4 @@ config NOMOUNT
 	  without mounting filesystems. Useful for systemless modifications.
 
 endmenu
+source "fs/nomount/Kconfig"
